@@ -1,0 +1,23 @@
+﻿@model IEnumerable<March_16_Assignment.Models.StudentCoursesVM>
+
+<h2>Students</h2>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Branch</th>
+        <th>Course Count</th>
+        <th>Course Titles</th>
+    </tr>
+
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td>@s.Name</td>
+            <td>@s.Branch</td>
+            <td>@s.CourseTitles.Count</td>
+            <td>@string.Join(", ", s.CourseTitles)</td>
+        </tr>
+    }
+
+</table>

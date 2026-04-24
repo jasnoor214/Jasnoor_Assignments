@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Employee Details";
+}
+
+<div class="card mx-auto" style="width: 400px;">
+    <div class="card-header bg-info text-white" id="empName">Employee Name</div>
+    <img id="empImg" class="card-img-top" src="" alt="Employee Image" style="height:300px; object-fit:cover;">
+    <div class="card-body">
+        <p><strong>Email:</strong> <span id="empEmail"></span></p>
+        <p><strong>Age:</strong> <span id="empAge"></span></p>
+        <a href="/EmployeeUI/Index" class="btn btn-secondary">Back</a>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        const params = new URLSearchParams(window.location.search);
+        const id = params.get("id");
+
+        $.ajax({
+            url: `/api/Employee/${id}`, // ✅ correct URL
+            type: "GET",
+            headers: {
+                "Authorization": "Bearer " + localStorage.getItem("token") // ✅ token added
+            },
+            success: function (emp) {
+                $("#empName").text((emp.firstName || emp.FirstName) + " " + (emp.lastName || emp.LastName));
+                $("#empEmail").text(emp.email || emp.Email);
+                $("#empAge").text(emp.age || emp.Age);
+                $("#empImg").attr("src", emp.imagePath || emp.imageUrl || "");
+            },
+            error: function (xhr) {
+                console.log(xhr.responseText);
+                alert("Error: " + xhr.status);
+            }
+        });
+    });
+</script>

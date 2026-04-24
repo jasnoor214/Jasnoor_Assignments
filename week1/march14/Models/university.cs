@@ -1,0 +1,28 @@
+﻿using System.Collections.Generic;
+
+namespace March_16_Assignment.Models
+{
+    public class Student
+    {
+        public int StudentId { get; set; }
+        public string Name { get; set; }
+        public string Branch { get; set; }
+
+        public List<Enrollment> Enrollments { get; set; } = new();
+    }
+
+    public class Course
+    {
+        public int CourseId { get; set; }
+        public string Title { get; set; }
+        public int Credits { get; set; }
+        public string Department { get; set; }
+    }
+
+    public class Enrollment
+    {
+        public int CourseId { get; set; }
+        public string Grade { get; set; }
+        public int AttemptNumber { get; set; }
+    }
+}

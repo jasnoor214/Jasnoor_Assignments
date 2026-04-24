@@ -1,0 +1,25 @@
+----> High Level Conceptual Model design  :
+
+     Identity the classes from the scenarios ,description and user stories and all try to identity the object or classes 
+    and then try to find realtionship between clases and this realtionship is not table foregken key or like that is not      like that just u need to write something in english how one class can be related to another class
+    and class responsiblity u have to identify and create a conceptual model u need to create for your project okay .
+    and responsibilities here only it will come which are nothing but methods or behaviour of a class 
+
+     (refer slide 7) 
+
+----> Class diagrams .(attributes  it should contain and it should contain behaviour --refer 7.1 slide)
+
+----> High level DB Design user ER  Diagrams give it .
+
+         (refer case study slides ) 
+
+----> User interface design for the project means designing the website (htmltemplates.net ) wire frames desiging it okay .....later on give me the desing or i will teach u how to integrate that in project of yours okay ...
+
+
+so refer 7 and 7.1 slides and do first two tasks .....and using case study understanding it do db design and check both class diagrams and db tables desing the screens in html and js and css okay .
+
+
+Take out screens for your project and how it should look means genral template etc so upto this if u do it no body is going to ask ....
+
+
+

@@ -1,0 +1,28 @@
+﻿@model March_16_Assignment.Models.StudentDetailVM
+
+<h2>Student Details</h2>
+
+<h3>@Model.Student.Name</h3>
+<p>Branch: @Model.Student.Branch</p>
+
+<h3>Courses</h3>
+
+<table border="1">
+    <tr>
+        <th>Title</th>
+        <th>Credits</th>
+        <th>Department</th>
+        <th>Latest Grade</th>
+    </tr>
+
+    @foreach (var c in Model.Courses)
+    {
+        <tr>
+            <td>@c.Title</td>
+            <td>@c.Credits</td>
+            <td>@c.Department</td>
+            <td>@c.LatestGrade</td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,7 @@
+D:\CapgeminiChandigarh\Day64\DeployentDemo\DeployentDemo\obj\Release\net8.0\PubTmp\Out\DeployentDemo.exe
+D:\CapgeminiChandigarh\Day64\DeployentDemo\DeployentDemo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\CapgeminiChandigarh\Day64\DeployentDemo\DeployentDemo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\CapgeminiChandigarh\Day64\DeployentDemo\DeployentDemo\obj\Release\net8.0\PubTmp\Out\DeployentDemo.dll
+D:\CapgeminiChandigarh\Day64\DeployentDemo\DeployentDemo\obj\Release\net8.0\PubTmp\Out\DeployentDemo.deps.json
+D:\CapgeminiChandigarh\Day64\DeployentDemo\DeployentDemo\obj\Release\net8.0\PubTmp\Out\DeployentDemo.runtimeconfig.json
+D:\CapgeminiChandigarh\Day64\DeployentDemo\DeployentDemo\obj\Release\net8.0\PubTmp\Out\DeployentDemo.pdb

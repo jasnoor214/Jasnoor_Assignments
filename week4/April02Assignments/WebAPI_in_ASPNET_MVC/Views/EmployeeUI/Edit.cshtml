@@ -1,0 +1,115 @@
+﻿@{
+    ViewBag.Title = "Edit Employee";
+}
+
+<div class="card mx-auto" style="width: 450px;">
+    <div class="card-header bg-warning text-white">
+        Edit Employee
+    </div>
+    <form id="editForm" enctype="multipart/form-data">
+        <img id="empImg" class="card-img-top" src="" alt="Employee Image" style="height: 300px; object-fit: cover;" />
+        <div class="card-body">
+            <input type="hidden" id="empId" name="Id" />
+
+            <div class="mb-2">
+                <label>First Name</label>
+                <input type="text" class="form-control" id="firstName" name="FirstName" required />
+            </div>
+
+            <div class="mb-2">
+                <label>Last Name</label>
+                <input type="text" class="form-control" id="lastName" name="LastName" required />
+            </div>
+
+            <div class="mb-2">
+                <label>Email</label>
+                <input type="email" class="form-control" id="email" name="Email" required />
+            </div>
+
+            <div class="mb-2">
+                <label>Age</label>
+                <input type="number" class="form-control" id="age" name="Age" min="1" max="100" required />
+            </div>
+
+            <div class="mb-3">
+                <label>Change Image</label>
+                <input type="file" class="form-control" name="image" id="imageInput" />
+            </div>
+
+            <button type="submit" class="btn btn-success">Update</button>
+            <a href="/EmployeeUI/Index" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+</div>
+
+<script>
+    $(document).ready(function () {
+
+        const params = new URLSearchParams(window.location.search);
+        const id = params.get("id");
+        const token = localStorage.getItem("token");
+
+        // 🔥 LOAD EMPLOYEE (FIXED WITH TOKEN)
+        $.ajax({
+            url: `/api/Employee/${id}`,
+            type: "GET",
+            headers: {
+                "Authorization": "Bearer " + token
+            },
+            success: function (emp) {
+                $("#empId").val(emp.id || emp.Id);
+                $("#firstName").val(emp.firstName || emp.FirstName);
+                $("#lastName").val(emp.lastName || emp.LastName);
+                $("#email").val(emp.email || emp.Email);
+                $("#age").val(emp.age || emp.Age);
+                $("#empImg").attr("src", emp.imagePath || emp.ImagePath || "");
+            },
+            error: function (xhr) {
+                if (xhr.status === 401) {
+                    alert("Please login first");
+                    window.location.href = "/AuthenticationUI/Login";
+                } else {
+                    alert("Error loading data: " + xhr.status);
+                }
+            }
+        });
+
+        // 🔥 UPDATE EMPLOYEE
+        $("#editForm").submit(function (e) {
+            e.preventDefault();
+
+            var formData = new FormData(this);
+            const id = $("#empId").val();
+
+            $.ajax({
+                url: `/api/Employee/${id}`,
+                type: "PUT",
+                headers: {
+                    "Authorization": "Bearer " + token
+                },
+                data: formData,
+                contentType: false,
+                processData: false,
+
+                success: function () {
+                    alert("Updated successfully!");
+                    window.location.href = "/EmployeeUI/Index";
+                },
+
+                error: function (xhr) {
+                    if (xhr.status === 403) {
+                        alert("You are not Admin.");
+                    }
+                    else if (xhr.status === 401) {
+                        alert("Session expired. Login again.");
+                        window.location.href = "/AuthenticationUI/Login";
+                    }
+                    else {
+                        console.log(xhr.responseText);
+                        alert("Error: " + xhr.status);
+                    }
+                }
+            });
+        });
+    });
+</script>

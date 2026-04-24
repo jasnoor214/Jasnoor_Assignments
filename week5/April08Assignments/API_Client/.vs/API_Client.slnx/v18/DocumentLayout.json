@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\Nikhil_Assignments\\Week5\\April08Assignments\\API_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B422555F-CECA-8CAF-D2A5-4D4A36E09ED4}|API_Client\\API_Client.csproj|d:\\net\\nikhil_assignments\\week5\\april08assignments\\api_client\\api_client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B422555F-CECA-8CAF-D2A5-4D4A36E09ED4}|API_Client\\API_Client.csproj|solutionrelative:api_client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422555F-CECA-8CAF-D2A5-4D4A36E09ED4}|API_Client\\API_Client.csproj|d:\\net\\nikhil_assignments\\week5\\april08assignments\\api_client\\api_client\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B422555F-CECA-8CAF-D2A5-4D4A36E09ED4}|API_Client\\API_Client.csproj|solutionrelative:api_client\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422555F-CECA-8CAF-D2A5-4D4A36E09ED4}|API_Client\\API_Client.csproj|d:\\net\\nikhil_assignments\\week5\\april08assignments\\api_client\\api_client\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422555F-CECA-8CAF-D2A5-4D4A36E09ED4}|API_Client\\API_Client.csproj|solutionrelative:api_client\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422555F-CECA-8CAF-D2A5-4D4A36E09ED4}|API_Client\\API_Client.csproj|d:\\net\\nikhil_assignments\\week5\\april08assignments\\api_client\\api_client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B422555F-CECA-8CAF-D2A5-4D4A36E09ED4}|API_Client\\API_Client.csproj|solutionrelative:api_client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\Nikhil_Assignments\\Week5\\April08Assignments\\API_Client\\API_Client\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "API_Client\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\NET\\Nikhil_Assignments\\Week5\\April08Assignments\\API_Client\\API_Client\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "API_Client\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T04:43:57.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\NET\\Nikhil_Assignments\\Week5\\April08Assignments\\API_Client\\API_Client\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API_Client\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\NET\\Nikhil_Assignments\\Week5\\April08Assignments\\API_Client\\API_Client\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API_Client\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:42:03.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NET\\Nikhil_Assignments\\Week5\\April08Assignments\\API_Client\\API_Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "API_Client\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NET\\Nikhil_Assignments\\Week5\\April08Assignments\\API_Client\\API_Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "API_Client\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T04:41:14.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NET\\Nikhil_Assignments\\Week5\\April08Assignments\\API_Client\\API_Client\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Client\\appsettings.json",
+              "ToolTip": "D:\\NET\\Nikhil_Assignments\\Week5\\April08Assignments\\API_Client\\API_Client\\appsettings.json",
+              "RelativeToolTip": "API_Client\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T04:38:51.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

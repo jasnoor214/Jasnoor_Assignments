@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|d:\\capgeminichandigarh\\day69\\cosmosdbdemo\\cosmosdbdemo\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|d:\\capgeminichandigarh\\day69\\cosmosdbdemo\\cosmosdbdemo\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|d:\\capgeminichandigarh\\day69\\cosmosdbdemo\\cosmosdbdemo\\views\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\views\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|d:\\capgeminichandigarh\\day69\\cosmosdbdemo\\cosmosdbdemo\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|d:\\capgeminichandigarh\\day69\\cosmosdbdemo\\cosmosdbdemo\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|d:\\capgeminichandigarh\\day69\\cosmosdbdemo\\cosmosdbdemo\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|d:\\capgeminichandigarh\\day69\\cosmosdbdemo\\cosmosdbdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|d:\\capgeminichandigarh\\day69\\cosmosdbdemo\\cosmosdbdemo\\data\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\data\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|d:\\capgeminichandigarh\\day69\\cosmosdbdemo\\cosmosdbdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|d:\\capgeminichandigarh\\day69\\cosmosdbdemo\\cosmosdbdemo\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4EB957-5FAA-4668-9165-354D29C6C425}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Delete.cshtml",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Views\\Items\\Delete.cshtml",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Delete.cshtml*",
+              "RelativeToolTip": "cosmosdbdemo\\Views\\Items\\Delete.cshtml*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:28:45.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Edit.cshtml",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Views\\Items\\Edit.cshtml",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Edit.cshtml*",
+              "RelativeToolTip": "cosmosdbdemo\\Views\\Items\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:28:25.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Views\\Items\\Create.cshtml",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Create.cshtml*",
+              "RelativeToolTip": "cosmosdbdemo\\Views\\Items\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:28:08.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Details.cshtml",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Views\\Items\\Details.cshtml",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Details.cshtml*",
+              "RelativeToolTip": "cosmosdbdemo\\Views\\Items\\Details.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:27:45.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Views\\Items\\Index.cshtml",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Index.cshtml*",
+              "RelativeToolTip": "cosmosdbdemo\\Views\\Items\\Index.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:27:22.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Controllers\\ItemsController.cs*",
+              "RelativeToolTip": "cosmosdbdemo\\Controllers\\ItemsController.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwE8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:24:31.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Program.cs",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Program.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Program.cs",
+              "RelativeToolTip": "cosmosdbdemo\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:20:52.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CosmosDbService.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Data\\CosmosDbService.cs",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Data\\CosmosDbService.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Data\\CosmosDbService.cs",
+              "RelativeToolTip": "cosmosdbdemo\\Data\\CosmosDbService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:15:35.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Itemmodel.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Models\\Itemmodel.cs",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Models\\Itemmodel.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\Models\\Itemmodel.cs",
+              "RelativeToolTip": "cosmosdbdemo\\Models\\Itemmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:14:06.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\appsettings.json",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\appsettings.json",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day69\\cosmosdbdemo\\cosmosdbdemo\\appsettings.json",
+              "RelativeToolTip": "cosmosdbdemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T06:07:05.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@ResortAPI2_HostAddress = http://localhost:5269
+
+GET {{ResortAPI2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
