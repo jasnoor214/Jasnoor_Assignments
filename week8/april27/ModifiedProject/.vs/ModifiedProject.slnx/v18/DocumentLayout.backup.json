@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Migrations\\20260427092200_some tables added .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ModifiedProject\\Migrations\\20260427092200_some tables added .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4652EF-1256-48EF-B865-596B5AF7644F}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E4652EF-1256-48EF-B865-596B5AF7644F}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4652EF-1256-48EF-B865-596B5AF7644F}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4652EF-1256-48EF-B865-596B5AF7644F}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4652EF-1256-48EF-B865-596B5AF7644F}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4652EF-1256-48EF-B865-596B5AF7644F}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4652EF-1256-48EF-B865-596B5AF7644F}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4652EF-1256-48EF-B865-596B5AF7644F}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260427092200_some tables added .cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Migrations\\20260427092200_some tables added .cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Migrations\\20260427092200_some tables added .cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Migrations\\20260427092200_some tables added .cs",
+              "RelativeToolTip": "ModifiedProject\\Migrations\\20260427092200_some tables added .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:22:00.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Program.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Program.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Program.cs",
+              "RelativeToolTip": "ModifiedProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:19:48.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ModifiedProject\\appsettings.json",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\appsettings.json",
+              "RelativeToolTip": "ModifiedProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-27T09:18:28.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Models\\Employee.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Models\\Employee.cs",
+              "RelativeToolTip": "ModifiedProject\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:10:59.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ModifiedProject\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:10:42.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
