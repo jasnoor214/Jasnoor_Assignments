@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\services\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\services\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\dto\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\dto\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\dto\\employeebasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\dto\\employeebasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\migrations\\20260427092200_some tables added .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\migrations\\20260427092200_some tables added .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|d:\\capgeminichandigarh\\day75\\modifiedproject\\modifiedproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Controllers\\EmpController.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "ModifiedProject\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:11:33.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "ModifiedProject\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAcwM8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:00:12.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Services\\IEmployee.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Services\\IEmployee.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Services\\IEmployee.cs",
+              "RelativeToolTip": "ModifiedProject\\Services\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:58:00.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeBasicDto.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\DTO\\EmployeeBasicDto.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\DTO\\EmployeeBasicDto.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\DTO\\EmployeeBasicDto.cs",
+              "RelativeToolTip": "ModifiedProject\\DTO\\EmployeeBasicDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:54:21.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeUpdateDto.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\DTO\\EmployeeUpdateDto.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\DTO\\EmployeeUpdateDto.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\DTO\\EmployeeUpdateDto.cs",
+              "RelativeToolTip": "ModifiedProject\\DTO\\EmployeeUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:54:00.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\DTO\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\DTO\\EmployeeDto.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\DTO\\EmployeeDto.cs",
+              "RelativeToolTip": "ModifiedProject\\DTO\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:53:28.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260427092200_some tables added .cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Migrations\\20260427092200_some tables added .cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Migrations\\20260427092200_some tables added .cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Migrations\\20260427092200_some tables added .cs",
+              "RelativeToolTip": "ModifiedProject\\Migrations\\20260427092200_some tables added .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:22:00.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Program.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Program.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Program.cs",
+              "RelativeToolTip": "ModifiedProject\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:19:48.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ModifiedProject\\appsettings.json",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\appsettings.json",
+              "RelativeToolTip": "ModifiedProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-27T09:18:28.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Models\\Employee.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Models\\Employee.cs",
+              "RelativeToolTip": "ModifiedProject\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:10:59.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day75\\ModifiedProject\\ModifiedProject\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ModifiedProject\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:10:42.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

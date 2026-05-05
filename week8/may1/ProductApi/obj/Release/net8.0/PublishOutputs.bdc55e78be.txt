@@ -1,0 +1,11 @@
+D:\CapgeminiChandigarh\AZURE_CG\usingWebApI\ProductApi\ProductApi\obj\Release\net8.0\PubTmp\Out\ProductApi.exe
+D:\CapgeminiChandigarh\AZURE_CG\usingWebApI\ProductApi\ProductApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\CapgeminiChandigarh\AZURE_CG\usingWebApI\ProductApi\ProductApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\CapgeminiChandigarh\AZURE_CG\usingWebApI\ProductApi\ProductApi\obj\Release\net8.0\PubTmp\Out\ProductApi.dll
+D:\CapgeminiChandigarh\AZURE_CG\usingWebApI\ProductApi\ProductApi\obj\Release\net8.0\PubTmp\Out\ProductApi.deps.json
+D:\CapgeminiChandigarh\AZURE_CG\usingWebApI\ProductApi\ProductApi\obj\Release\net8.0\PubTmp\Out\ProductApi.runtimeconfig.json
+D:\CapgeminiChandigarh\AZURE_CG\usingWebApI\ProductApi\ProductApi\obj\Release\net8.0\PubTmp\Out\ProductApi.pdb
+D:\CapgeminiChandigarh\AZURE_CG\usingWebApI\ProductApi\ProductApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\CapgeminiChandigarh\AZURE_CG\usingWebApI\ProductApi\ProductApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\CapgeminiChandigarh\AZURE_CG\usingWebApI\ProductApi\ProductApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CapgeminiChandigarh\AZURE_CG\usingWebApI\ProductApi\ProductApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

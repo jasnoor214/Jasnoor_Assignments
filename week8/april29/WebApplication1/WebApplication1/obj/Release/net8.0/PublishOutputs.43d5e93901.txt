@@ -1,0 +1,7 @@
+D:\CapgeminiChandigarh\Day77\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.exe
+D:\CapgeminiChandigarh\Day77\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\CapgeminiChandigarh\Day77\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\CapgeminiChandigarh\Day77\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.dll
+D:\CapgeminiChandigarh\Day77\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.deps.json
+D:\CapgeminiChandigarh\Day77\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\CapgeminiChandigarh\Day77\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.pdb
